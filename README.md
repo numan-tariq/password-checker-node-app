@@ -4,7 +4,7 @@ Install dependencies
   - npm init
   
 Start node app
-  node index.js
+  - node index.js
 
 Password-Checker is dedicated to match your password between two files.
   - One file contains Hash Passwords.
